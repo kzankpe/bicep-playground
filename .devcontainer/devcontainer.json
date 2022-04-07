@@ -9,7 +9,9 @@
 	"extensions": [
 		"ms-vscode.azurecli",
 		"ms-dotnettools.vscode-dotnet-runtime",
-		"ms-azuretools.vscode-bicep"
+		"ms-azuretools.vscode-bicep",
+		"mhutchie.git-graph",
+		"mutantdino.resourcemonitor"
 	],
 	
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
