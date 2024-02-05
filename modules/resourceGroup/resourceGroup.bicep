@@ -1,5 +1,3 @@
-
-
 targetScope = 'subscription'
 
 @description('Azure region where the resource will be deployed')
